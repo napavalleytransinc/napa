@@ -1,0 +1,115 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 200px;
+  right: 0px;
+}
+
+/* Navigation Bar */
+.navbar{
+  padding: 0 0 3.5rem;
+}
+
+.navbar-brand{
+  font-family: 'DM Serif Display', serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: "Montserrat-Light";
+  font-size: 1.2rem;
+}
+
+.logo-img {
+  width: 25%;
+  margin-left: 20px;
+}
+
+.truck{
+  width: 500px;
+  height: 468px;
+  margin-left: 25px;
+}
+
+.carousel-item{
+    height: 550px;
+}
+.carousel-item img{
+    height: 550px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DM Serif Display', serif;
+}
+
+.about-heading, .pricing-heading, .trucks-heading {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.about-heading {
+  padding-bottom: 50px;
+}
+
+.about-subheading {
+  padding-bottom: 50px;
+  font-size: 3rem;
+}
+
+.about-paragraph, .pricing-list {
+  font-size: 1.5rem;
+}
+
+#home{
+  background-color: #dc0a0a;
+  padding-bottom: 17px;
+}
+
+#aboutus{
+  text-align: center;
+  padding: 50px 100px 104px 100px;
+}
+
+#pricing{
+  text-align: left;
+  padding: 10px 100px 70px 100px;
+  background-color: #dc0a0a;
+}
+
+.pricing-heading{
+  padding-bottom: 50px;
+}
+
+.trucks-heading{
+  padding: 10px 0px;
+}
+
+#contact {
+  background-color: #dc0a0a;
+}
+
+.cta-container {
+  position: relative;
+  text-align: center;
+  color: white
+}
+
+#contact div {
+  margin: 20px;
+  font-size: 1.5rem;
+}
